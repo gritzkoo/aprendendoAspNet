@@ -24,3 +24,24 @@ C:\Users\GritzkoDaniel\documents\visual studio 2013\Projects\phdtreinamentos\phd
 C:\Users\GritzkoDaniel\documents\visual studio 2013\Projects\phdtreinamentos\phdtreinamentos\bin\System.Net.Http.Formatting.xml
 C:\Users\GritzkoDaniel\documents\visual studio 2013\Projects\phdtreinamentos\phdtreinamentos\bin\System.Web.Http.xml
 C:\Users\GritzkoDaniel\documents\visual studio 2013\Projects\phdtreinamentos\phdtreinamentos\bin\System.Web.Http.WebHost.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\phdtreinamentos.dll.config
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\phdtreinamentos.dll
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\phdtreinamentos.pdb
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\Newtonsoft.Json.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Net.Http.Formatting.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Http.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Http.WebHost.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Razor.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Webpages.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Webpages.Deployment.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Webpages.Razor.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Helpers.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Mvc.xml
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\obj\Debug\phdtreinamentos.csprojResolveAssemblyReference.cache
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\obj\Debug\phdtreinamentos.dll
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\obj\Debug\phdtreinamentos.pdb
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\Antlr3.Runtime.dll
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Optimization.dll
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\WebGrease.dll
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\Antlr3.Runtime.pdb
+C:\ASP_NET_PROJECTS\aprendendo asp.net\phdtreinamentos\bin\System.Web.Optimization.xml
