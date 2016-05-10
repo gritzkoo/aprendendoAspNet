@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Mvc;
 
 
 namespace phdtreinamentos.Controllers
 {
-    public class HomeController
+    public class HomeController : Controller
     {
-        public Action Index()
+        public ActionResult Index()
         {
             return View();
         }

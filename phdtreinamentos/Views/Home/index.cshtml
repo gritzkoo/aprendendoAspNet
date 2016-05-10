@@ -1,5 +1,9 @@
 ﻿@{
-    Layout = "~/Shared/MasterPage";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+    ViewBag.title = "tela de teste";
 }
 
+
 <div><h1>Hello word</h1></div>
+
+@Html.Partial("~/Views/Home/teste.cshtml")
